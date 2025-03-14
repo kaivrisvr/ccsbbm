@@ -1,2 +1,1 @@
-# ccsbbm
-Kai Baba Geri Döndü 
+# Tek Kral
